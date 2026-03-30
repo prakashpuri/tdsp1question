@@ -1,0 +1,9 @@
+{
+
+  "prompt": "your complete final prompt here, word for word", "model": "e.g. DALL-E 3 via ChatGPT Plus",
+
+  "dataset_name": "e.g. IUCN Red List of Threatened Species 2023", "dataset_url":   "https://www.iucnredlist.org/statistics",
+
+  "insight": "By 2100, approximately 50% of currently assessed species face extinction under current warming trajectories."
+
+}
